@@ -1,5 +1,11 @@
 Basic Nest RESTApi Application with JWT authentication and basic NESTJS concepts.
 
+## TechStack
+-- NestJS
+-- Prisma (ORM for Database)
+-- Passport (JWT authentication)
+-- argon2 (Password Hashing)
+-- pactum (e2e Testing)
 ## Installation
 
 ```bash
